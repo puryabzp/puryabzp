@@ -1,4 +1,3 @@
-
 <form action="https://formspree.io/yourformlink" method="POST">
 <div class="row gtr-uniform">
 <div class="col-6 col-12-xsmall">
