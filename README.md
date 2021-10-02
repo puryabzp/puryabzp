@@ -1,9 +1,2 @@
-<form action="https://formspree.io/yourformlink" method="POST">
-<div class="row gtr-uniform">
-<div class="col-6 col-12-xsmall">
-<input type="text" name="name" id="name" value="" placeholder="Name" />
-</div>
-<div class="col-6 col-12-xsmall">
-<input type="email" name="_replyto" id="email" value="" placeholder="Email" />
-</div>
-</form>
+<a href="https://github.com/ghost1372">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=ghost1372&show_icons=true&count_private=true&include_all_commits=true" /></a>
