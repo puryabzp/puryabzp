@@ -41,7 +41,7 @@
     <th>Technologies Used</th>
   </tr>
   <tr>
-    <td>Agent - server side</td>
+    <td>Agent - server side (<strong>private</strong> )</td>
     <td>Python - Django -Django Channels - Redis</td>
 
   </tr>
