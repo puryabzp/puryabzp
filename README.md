@@ -41,17 +41,17 @@
     <th>Technologies Used</th>
   </tr>
   <tr>
-    <td>Agent - server side (<strong>private</strong> )</td>
+    <td>Agent - server side ( <strong>private</strong> )</td>
     <td>Python - Django -Django Channels - Redis</td>
 
   </tr>
   <tr>
-    <td>Agent - Client side with Schedule</td>
+    <td>Agent - Client side with Celery ( <strong>private</strong> )</td>
     <td>Python - Celery - Websocket - Redis</td>
 
   </tr>
   <tr>
-    <td>Agent - Client side with Schedule</td>
+    <td>Agent - Client side with Schedule ( <strong>private</strong> )</td>
     <td>Python - Websocket - Schedule</td>
 
   </tr>
