@@ -33,4 +33,12 @@
 
 <h3>Projects :</h3>
 <hr>
-
+<ul>
+  <li>Agent - server side</li>
+  <li>Agent - Client side with Schedule</li>
+  <li>Agent - Client side with Celery</li>
+  <li>Weblog</li>
+  <li>Shop</li>
+  <li>Simple Chat app</li>
+  <li>Some Front-end Mini Projects</li>
+</ul>  
