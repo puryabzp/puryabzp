@@ -31,17 +31,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=puryabzp&" alt="puryabzp" /></p>
 
-<h3>Projects :</h3>
+<h2>Projects :</h2>
 <hr>
-<ul>
-  <li>Agent - server side</li>
-  <li>Agent - Client side with Schedule</li>
-  <li>Agent - Client side with Celery</li>
-  <li>Weblog</li>
-  <li>Shop</li>
-  <li>Simple Chat app</li>
-  <li>Some Front-end Mini Projects</li>
-</ul>  
+
 
 <table>
   <tr>
@@ -50,32 +42,37 @@
   </tr>
   <tr>
     <td>Agent - server side</td>
-    <td>Python - Django -Django Channels</td>
+    <td>Python - Django -Django Channels - Redis</td>
 
   </tr>
   <tr>
-    <td>Centro comercial Moctezuma</td>
-    <td>Francisco Chang</td>
+    <td>Agent - Client side with Schedule</td>
+    <td>Python - Celery - Websocket - Redis</td>
 
   </tr>
   <tr>
-    <td>Ernst Handel</td>
-    <td>Roland Mendel</td>
+    <td>Agent - Client side with Schedule</td>
+    <td>Python - Websocket - Schedule</td>
 
   </tr>
   <tr>
-    <td>Island Trading</td>
-    <td>Helen Bennett</td>
+    <td>Weblog</td>
+    <td>Python - Django - DRF - Html - Css - BootStrap - JavaScript - jQuery</td>
 
   </tr>
   <tr>
-    <td>Laughing Bacchus Winecellars</td>
-    <td>Yoshi Tannamuri</td>
+    <td>Shop</td>
+    <td>Python - Django - DRF - Html - Css - BootStrap - JavaScript - jQuery</td>
 
   </tr>
   <tr>
-    <td>Magazzini Alimentari Riuniti</td>
-    <td>Giovanni Rovelli</td>
+    <td>Simple Chat app</td>
+    <td>Python - Django - Django Channels - Redis - Html - Css - JavaScript - jQuery</td>
+
+  </tr>
+  <tr>
+    <td>Some Front-end Mini Projects</td>
+    <td>Html - Css - JavaScript - jQuery - BootStrap</td>
 
   </tr>
 </table>
