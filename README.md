@@ -3,7 +3,7 @@
 <html>
 <head>
 <style>
-img {
+a {
   border-style: none;
 }
 
