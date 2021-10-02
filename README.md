@@ -1,13 +1,13 @@
+
+
+
+<h1 align="center">Hi 👋, I'm Purya</h1>
+<h3 align="center">A Backend developer from Iran</h3>
 <a href="https://github.com/puryabzp">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=puryabzp&show_icons=true&count_private=true&include_all_commits=true" style='border':'none' /></a>
 <a href="https://github.com/puryabzp">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=puryabzp" />
 </a>
-
-
-<h1 align="center">Hi 👋, I'm Purya</h1>
-<h3 align="center">A Backend developer from Iran</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=puryabzp&label=Profile%20views&color=0e75b6&style=flat" alt="puryabzp" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=puryabzp" alt="puryabzp" /></a> </p>
