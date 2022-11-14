@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
-<div align="center">I'm Purya, a full-time Back End developer 👨‍💻 working since 2019🚀</div>
+<div align="center">I'm Purya, a full-time Back End developer 👨‍💻 working since 2018🚀</div>
 <div align="center">Holding recognized strength in business-driven software architecture, design, implementing and supporting Enterprise software infrastructures and solutions. Massive experience of Django,FastAPI, Django Rest Framework, Django Channel, databases, queueing systems, and front end technologies. Able to troubleshoot and new software designs. Successfully maintains professionalism and personal commitment with excellent communication and people skills with the ability to train, motivate and supervise a team.</div>  
   
 
