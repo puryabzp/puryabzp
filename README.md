@@ -3,7 +3,13 @@
 <img src="https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png" alt="Hello world">
 
 <div align="center">I'm Purya, a full-time Back End developer 👨‍💻 working since 2018🚀</div>
-<div align="center">Holding recognized strength in business-driven software architecture, design, implementing and supporting Enterprise software infrastructures and solutions. Massive experience of Django,FastAPI, Django Rest Framework, Django Channel, databases, queueing systems, and front end technologies. Able to troubleshoot and new software designs. Successfully maintains professionalism and personal commitment with excellent communication and people skills with the ability to train, motivate and supervise a team.</div>  
+<div align="center">With over 5 years of hands-on experience in the Python ecosystem, I possess an in-depth understanding of the entire software development process, from planning and design to testing and deployment. My technical skills and expertise lie in developing and maintaining high-performance, scalable applications using various tools, including Back-end (Django/FastAPI/Flask), Docker, Git, PostgreSQL, MongoDB, MySQL, and Async IO.
+
+What sets me apart is my insatiable passion for programming and my eagerness to learn and collaborate with talented professionals from diverse backgrounds. Keeping up with the latest advancements in the field is my top priority, and I make it my mission to enhance my skills to tackle any challenge.
+
+My exceptional communication and collaboration skills, gained through cross-functional team experiences, enable me to work effectively with people from diverse disciplines and backgrounds. As a dedicated back-end developer, I am committed to providing efficient solutions to complex problems, and I thrive in fast-paced, dynamic environments.
+
+I am currently seeking new opportunities abroad to expand my horizons and grow as a professional. My goal is to join a team of like-minded individuals who share my passion for delivering high-quality software products. I welcome any connections or networking opportunities that could help me achieve this goal.</div>  
   
 
 <br/>  
