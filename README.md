@@ -7,9 +7,7 @@
 
 What sets me apart is my insatiable passion for programming and my eagerness to learn and collaborate with talented professionals from diverse backgrounds. Keeping up with the latest advancements in the field is my top priority, and I make it my mission to enhance my skills to tackle any challenge.
 
-My exceptional communication and collaboration skills, gained through cross-functional team experiences, enable me to work effectively with people from diverse disciplines and backgrounds. As a dedicated back-end developer, I am committed to providing efficient solutions to complex problems, and I thrive in fast-paced, dynamic environments.
-
-I am currently seeking new opportunities abroad to expand my horizons and grow as a professional. My goal is to join a team of like-minded individuals who share my passion for delivering high-quality software products. I welcome any connections or networking opportunities that could help me achieve this goal.</div>  
+My exceptional communication and collaboration skills, gained through cross-functional team experiences, enable me to work effectively with people from diverse disciplines and backgrounds. As a dedicated back-end developer, I am committed to providing efficient solutions to complex problems, and I thrive in fast-paced, dynamic environments.</div>  
   
 
 <br/>  
