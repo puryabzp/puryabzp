@@ -1,6 +1,6 @@
 # Hey there :wave:
 
-<img src="https://camo.githubusercontent.com/ba9f3bd30647e35…374617469632f696d616765732f62616e6e6572722e676966" alt="Hello world">
+<img src="[https://camo.githubusercontent.com/ba9f3bd30647e35…374617469632f696d616765732f62616e6e6572722e676966](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)" alt="Hello world">
 
 <div align="center">I'm Purya, a full-time Back End developer 👨‍💻 working since 2018🚀</div>
 <div align="center">With over 5 years of hands-on experience in the Python ecosystem, I possess an in-depth understanding of the entire software development process, from planning and design to testing and deployment. My technical skills and expertise lie in developing and maintaining high-performance, scalable applications using various tools, including Back-end (Django/FastAPI/Flask), Docker, Git, PostgreSQL, MongoDB, MySQL, and Async IO.
