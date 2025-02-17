@@ -1,6 +1,6 @@
 # About Me
 
-As a senior Python engineer with a background spanning the entire software development life cycle, I've accumulated extensive experience in documenting, coding, code reviewing, CI/CD implementation, monitoring, and debugging.
+As a Data-Driven Python engineer with a background spanning the entire software development life cycle, I've accumulated extensive experience in documenting, coding, code reviewing, CI/CD implementation, monitoring, and debugging.
 
 ## Technologies
 - **Programming Languages:** Python, familiar with Java
