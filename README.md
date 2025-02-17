@@ -1,29 +1,23 @@
-# Hey there :wave:
+# About Me
 
+As a senior Python engineer with a background spanning the entire software development life cycle, I've accumulated extensive experience in documenting, coding, code reviewing, CI/CD implementation, monitoring, and debugging.
 
-<div align="center">I'm Purya, a full-time Back End developer 👨‍💻 working since 2018🚀</div>
-<div align="center">With over 5 years of hands-on experience in the Python ecosystem, I possess an in-depth understanding of the entire software development process, from planning and design to testing and deployment. My technical skills and expertise lie in developing and maintaining high-performance, scalable applications using various tools, including Back-end (Django/FastAPI/Flask), Docker, Git, PostgreSQL, MongoDB, MySQL, and Async IO.
+## Technologies
+- **Programming Languages:** Python, familiar with Java
+- **Frameworks:** Django, Django REST Framework (DRF), Flask, FastAPI
+- **Databases:** PostgreSQL, MySQL, Redis, MongoDB
+- **Container Platforms:** Docker
+- **Infrastructure as Code (IaC):** Terraform
+- **Monitoring and Logging Tools:** Prometheus, Grafana, DataDog
+- **CI/CD Workflows:** GitLab CI/CD, GitHub Actions
+- **Other Technologies:** OpenAPI, Swagger, Scrapy, BeautifulSoup, pyTest, Selenium, WebSocket, GraphQL, gRPC, SQL Alchemy, Git, GitHub Actions, Sentry, Locust, RabbitMQ, Celery, Apache Kafka
+- **Methodologies:** Agile, Scrum, Kanban
+- **Tools:** Jira
 
-What sets me apart is my insatiable passion for programming and my eagerness to learn and collaborate with talented professionals from diverse backgrounds. Keeping up with the latest advancements in the field is my top priority, and I make it my mission to enhance my skills to tackle any challenge.
+## My Goals
 
-My exceptional communication and collaboration skills, gained through cross-functional team experiences, enable me to work effectively with people from diverse disciplines and backgrounds. As a dedicated back-end developer, I am committed to providing efficient solutions to complex problems, and I thrive in fast-paced, dynamic environments.</div>  
-  
-<br/>  
+I am enthusiastic about tackling challenging software projects and continuously enhancing my skills in Python development. Currently, I'm actively exploring new opportunities abroad, seeking to broaden my horizons and further develop my professional expertise.
 
+I aim to join a team of accomplished professionals who share my zeal for delivering top-tier software products. If you're in search of a developer with the technical acumen, team-oriented mindset, and innovation drive to bolster your projects, let's connect!
 
-## Connect with me  
-<div align="center">
-<a href="https://twitter.com/hiphopengineer_" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/purya-behzadpur/" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=puryabzp&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+[![LinkedIn](https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/purya-behzadpur/)
